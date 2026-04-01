@@ -156,6 +156,7 @@
 }
 
 .friendReqsDeleteButton{
+  color: black;
   background-color: rgb(226, 229, 233);
   margin-left: 4px;
 }
